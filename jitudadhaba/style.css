@@ -205,20 +205,20 @@ body {
 }
 
 .footer {
-    background-color: rgba(255, 218, 68, 0.9); /* Matching the form color */
-    color: rgb(90, 53, 4); /* Text color */
+    background-color: rgba(255, 218, 68, 0.9);
+    color: rgb(90, 53, 4);
     text-align: center;
     padding: 20px 0;
-    position: relative; /* Adjust positioning */
+    position: relative; 
     bottom: 0;
     width: 100%;
-    margin-top: 50px; /* Space above footer */
+    margin-top: 50px; 
 }
 
 .footer-content {
-    max-width: 1200px; /* Same as main container */
+    max-width: 1200px; 
     margin: auto;
-    padding: 0 20px; /* Ensure it’s not flush against edges */
+    padding: 0 20px; 
 }
 
 .social-links {
@@ -233,10 +233,10 @@ body {
 }
 
 .social-links a:hover {
-    text-decoration: underline; /* Underline on hover */
+    text-decoration: underline; 
 }
 
 .footer p {
     margin: 10px 0;
-    font-size: 1.1em; /* Slightly larger for readability */
+    font-size: 1.1em; 
 }
